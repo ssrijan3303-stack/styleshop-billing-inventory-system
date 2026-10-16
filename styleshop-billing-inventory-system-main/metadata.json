@@ -1,0 +1,6 @@
+{
+  "name": "StyleShop - Clothing Shop Billing & Inventory System",
+  "description": "Pixel-perfect modern clothing shop billing and inventory management system dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
