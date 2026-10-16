@@ -10,7 +10,7 @@ export interface Product {
   name: string;
   category: 'Men' | 'Women' | 'Kids' | 'Accessories';
   size: string;
-  price: number;
+  price: number;git push -u origin main --force
   costPrice: number;
   stock: number;
   minStock: number;
